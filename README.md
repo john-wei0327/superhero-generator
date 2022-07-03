@@ -7,7 +7,7 @@ The model will then generate the next character that it predicts should be after
 This character is then added to the seed input to create a new input, which is then used again to generate the next character, and so on.
 
 ## Process
-Filtered out punctuation from the superhero text file and converted the names to sequences. <br/ >
-Padded sequences and transformed it into a 2D array. <br/ >
-Split the data into training and testing data. <br/ > 
-Built and trained a Sequential model. <br/ > 
+Filtered out punctuation from the superhero text file and converted the names to sequences. <br />
+Padded sequences and transformed it into a 2D array. <br />
+Split the data into training and testing data. <br /> 
+Built and trained a Sequential model. 
